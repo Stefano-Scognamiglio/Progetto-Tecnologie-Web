@@ -1,5 +1,4 @@
 # Progetto-Tecnologie-Web
-# HotWheels-Logistics-todoList
 SeatedApp è una web app che ha lo scopo di prenotare nelle diverse sedi della nostra università uno o più posti all'interno delle aule studio. Il progetto è stato sviluppato per l'esame di Tecnologie Web dell'Università degli Studi di Napoli "Parthenope".
 ## Componenti utilizzati
 - HTML5 
